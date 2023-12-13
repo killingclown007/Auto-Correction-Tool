@@ -1,2 +1,2 @@
-# Bharat-Intern-Auto-Correction-Tool
+# Auto-Correction-Tool
 Built an Autocorrect Tool Using TextBlob and Tinker
